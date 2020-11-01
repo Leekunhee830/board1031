@@ -41,3 +41,11 @@ public class Test {
     	}	
     }
 }
+
+class Information{
+	private int ids;
+	private String title;
+	private String body;
+	
+	
+}
